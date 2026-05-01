@@ -39,6 +39,5 @@ This project focuses on **security, transparency, and accessibility** for digita
 - server.js  
 
 
----
 
-## 📁 Project Structure
+
